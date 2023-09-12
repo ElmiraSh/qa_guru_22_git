@@ -5,3 +5,6 @@ public class Main {
         System.out.println("Hello, qa guru 1234!");
     }
 }
+public static String getMessage() {
+    return "hello qa guru";
+}
