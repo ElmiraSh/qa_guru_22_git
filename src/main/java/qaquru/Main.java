@@ -2,11 +2,10 @@ package qaquru;
 
 public class Main {
     public static void main(String[] args) {
-        System.out.println(getMessage());
+        System.out.println("Hello, qa guru 123!");
     }
 
 
 public static String getMessage() {
     return "hello qa guru";
-}
 }
