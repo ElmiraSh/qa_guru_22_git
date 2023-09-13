@@ -6,6 +6,6 @@ public class Main {
     }
 
 
-public static String getMessage() {
+public void String getMessage() {
     return "hello qa guru";
 }
